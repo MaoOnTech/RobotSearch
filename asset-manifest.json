@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Robots/static/css/main.cd540ed2.css",
-    "main.js": "/Robots/static/js/main.167b2511.js",
-    "static/js/787.bc9dc7bf.chunk.js": "/Robots/static/js/787.bc9dc7bf.chunk.js",
-    "static/media/Game Played Outline.woff": "/Robots/static/media/Game Played Outline.ec6057ee4af5f71d09b4.woff",
-    "static/media/Game Played.woff": "/Robots/static/media/Game Played.39fb899834dc936b5b60.woff",
-    "index.html": "/Robots/index.html",
-    "main.cd540ed2.css.map": "/Robots/static/css/main.cd540ed2.css.map",
-    "main.167b2511.js.map": "/Robots/static/js/main.167b2511.js.map",
-    "787.bc9dc7bf.chunk.js.map": "/Robots/static/js/787.bc9dc7bf.chunk.js.map"
+    "main.css": "/RobotSearch/static/css/main.4d918631.css",
+    "main.js": "/RobotSearch/static/js/main.6dc84e94.js",
+    "static/js/787.bc9dc7bf.chunk.js": "/RobotSearch/static/js/787.bc9dc7bf.chunk.js",
+    "static/media/Game Played Outline.woff": "/RobotSearch/static/media/Game Played Outline.ec6057ee4af5f71d09b4.woff",
+    "static/media/Game Played.woff": "/RobotSearch/static/media/Game Played.39fb899834dc936b5b60.woff",
+    "index.html": "/RobotSearch/index.html",
+    "main.4d918631.css.map": "/RobotSearch/static/css/main.4d918631.css.map",
+    "main.6dc84e94.js.map": "/RobotSearch/static/js/main.6dc84e94.js.map",
+    "787.bc9dc7bf.chunk.js.map": "/RobotSearch/static/js/787.bc9dc7bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd540ed2.css",
-    "static/js/main.167b2511.js"
+    "static/css/main.4d918631.css",
+    "static/js/main.6dc84e94.js"
   ]
 }
